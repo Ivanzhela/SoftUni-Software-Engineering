@@ -2,7 +2,7 @@
 
 <a href="https://softuni.bg/trainings/courses" rel="Courses"> ![SoftUni logo][logo] </a>
 
-[logo]: https://alfa.kachi-snimka.info/vij2021.php?id=viu1653476785d.png "Logo Title Text 2"
+[logo]: https://alfa.kachi-snimka.info/images-2021/viu1653476785d.png "Logo Title Text 2"
 
 <br/>
 <br/>

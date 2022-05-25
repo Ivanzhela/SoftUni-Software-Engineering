@@ -1,0 +1,4 @@
+function weddingSeats(input) {
+
+}
+weddingSeats
